@@ -343,7 +343,7 @@ async function loadConfig() {
 
 async function initializeConfigFiles() {
     const configFiles = {
-        'proxy.txt': '103.133.63.4\n156.228.116.246:3128',
+        'proxy.txt': '113.123.63.4\n156.288.143.264:3128',
         'user.txt': 'email@example.com:password123',
         'konfigurasi.txt': 'bottoken:chatid',
         'cookies.txt': '_ga=GA1.1.123456789.0123456789; id=abcdefghijklmnop'
