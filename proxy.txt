@@ -1,1 +1,1 @@
-first line is your ip , buka web blockmesh biarin ekstensionnya berjalan dulu , nanti muncul ipmu disitu , dan line selanjutnya adalah proxy
+first line is your ip , open blockmesh sites - let exstension run and it will shows your ip. OR type ifconfig on you terminal
